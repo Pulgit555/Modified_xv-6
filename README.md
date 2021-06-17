@@ -18,7 +18,7 @@ we have to make changes in files:-
 9. trap.c(in case of waitx)
 
 ## For adding a user program ->
-1. Makefile
+1. We need to add changes in Makefile
 2. create a new file  
   - time.c (using waitx syscall)
   - ps.c (using getps syscall)
